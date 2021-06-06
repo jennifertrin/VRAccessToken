@@ -4,7 +4,7 @@ VR Access Token Project for the Open Web Community Hackathon
 ## Our Project
 This solution demonstrates how an NFT published on Mintbase.io can be used as a ticket to a browser-based VR experience. 
 
-Artists Liminallogic and Renderedflesh collaborated to create an immersive artwork inspired by the NEAR protocol. Using a mechanism devloped by the MintGate platform, we created a URL of their VR experience that is gated by a NEAR NFT.
+Artists Liminallogic and Renderedflesh collaborated to create an immersive artwork inspired by the NEAR protocol. Using a mechanism developed by the MintGate platform, we created a URL of their VR experience that is gated by a NEAR NFT.
 
 ## Links to Project Presentation and Proposal:
 
