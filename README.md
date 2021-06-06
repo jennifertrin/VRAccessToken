@@ -8,7 +8,7 @@ Artists Liminallogic and Renderedflesh collaborated to create an immersive artwo
 
 ## Links to Project Presentation and Proposal:
 
-Link to the Proposal: 
+Link to the Proposal: https://gov.near.org/t/ideation-for-vr-dao-hackathon-tickets-to-the-metaverse/1749
 
 Link to Presentation: https://prezi.com/view/PdNMocaJtrqAlvmaPHW0/
 
